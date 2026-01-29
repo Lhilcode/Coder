@@ -8,7 +8,7 @@ export function Hero() {
           <div className="space-y-6">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 rounded-full">
               <Sparkles className="w-4 h-4 text-primary" />
-              <span className="text-sm text-primary">Available for Projects</span>
+              <span className="text-sm text-primary">Atechguy</span>
             </div>
             <h1 className="text-5xl md:text-6xl font-medium leading-tight">
               Building the Future,

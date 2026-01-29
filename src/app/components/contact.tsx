@@ -18,8 +18,8 @@ export function Contact() {
     {
       icon: Globe,
       label: "Website",
-      value: "coder.vercel.app",
-      href: "https://coder.vercel.app"
+      value: "tomiwa-coderx.vercel.app",
+      href: "https://tomiwa-coderx.vercel.app"
     },
     {
       icon: Twitter,
